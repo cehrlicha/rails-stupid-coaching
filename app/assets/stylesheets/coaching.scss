@@ -1,0 +1,22 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.boxed {
+  border-left: 5px solid lightgray;
+  p {
+    font-size: 16px;
+    color: lightgray;
+  }
+}
+
+
+.margin {
+  margin-top: 250px;
+  margin-bottom: 30px;
+}
+
+.link {
+  margin-top: 30px;
+  color: #5F4411;
+  text-decoration: none;
+}
